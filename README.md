@@ -10,8 +10,23 @@ Generative AI applications.
 Generative AI impact of scaling in LLMs.
 
 ## Algorithm:
+1.Set up tools : Choose any one LLM interface
+
+2.Design the prompts : Prepare 4 prompts that progressively apply prompt-engineering techniques:
+
+3.Run the prompts on the same task.
+
+4.Record outputs and write the report.
+
+## Prompt
+Create a Comprehensive Report on the Fundamentals of Generative AI and Large Language Models for 8 to 10 pages if require add table content graph ,flow table contents make more attractive  and give me as a word file.
 
 ## Output
+[ex1 report.docx](https://github.com/user-attachments/files/27111456/ex1.report.docx)
+
 
 ## Result
+The experiment showed that prompt design greatly improves the quality of outputs from LLMs. It successfully demonstrated Generative AI concepts, architectures, applications, and scaling impacts.
+
+
 
